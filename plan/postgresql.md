@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
 # Provide a 3 month plan to learn full SQL using postgress SQL
 
 right from basics to Advanced concepts to cover in and out of the SQL
