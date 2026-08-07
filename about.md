@@ -1,3 +1,3 @@
 # About Me
 
-![Kishore](kishore_chialakala.png)
+![Kishore](kishore_chilakala.png)
