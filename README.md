@@ -1,5 +1,6 @@
 # kisstronics.github.io
-kisstronics.github.io
 
-[Plan](plan/index.md)
-[Resources](resource/index.md)
+## Index
+ 1. [Plan](plan/index.md)
+ 2. [Resources](resource/index.md)
+ 3. [About](about.md)
