@@ -2,3 +2,4 @@
 kisstronics.github.io
 
 [Plan](plan/index.md)
+[Resources](resource/index.md)
