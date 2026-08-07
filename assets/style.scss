@@ -1,0 +1,9 @@
+@import "{{ site.theme }}";
+
+/* Your custom styles go here */
+body {
+  font-family: 'Inter', sans-serif;
+  color: #333;
+  max-width: 800px;
+}
+h1 { color: #2a7ae2; }
